@@ -24,7 +24,7 @@ Gavwifhat ($GWIF) is a meme coin with no intrinsic value or expectations of fina
 
 ## How to Get $GWIF
 You can purchase $GWIF on the Hydration DEX using the following steps:
-1. Head over to [Hydration DEX](https://app.hydration.net/trade/swap?assetIn=5&assetOut=1000330).
+1. Head over to [Hydration DEX](https://app.hydration.net/trade/swap?assetIn=5&assetOut=1000361).
 2. Connect your wallet.
 3. Swap your DOT for $GWIF and enjoy the memes!
 
